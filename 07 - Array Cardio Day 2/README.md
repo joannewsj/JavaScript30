@@ -1,5 +1,7 @@
 ## 07 Array Cardio Day 2
 
+[Demo](https://joannewsj.github.io/JavaScript30/07%20-%20Array%20Cardio%20Day%202/)
+
 1. `some()` 判断array里是否存在符合条件的值
 ``` Javascript
 [2, 5, 8, 1, 4].some(x => x > 10);  // false
@@ -33,7 +35,7 @@ fruits.splice(2, 2);
 console.log(fruits); // output: Banana,Orange,Kiwi
 ```
 
-6. `slice()` 返回一个新的array 原始array不会被改变
+6. `slice()` 返回一个新的array 原始array不会被改变  
 `slice([start], [end]) 包括start 不包括end`
 ```Javascript
 const animals = ["Ant", "Bison", "Camel", "Duck", "Elephant"];
