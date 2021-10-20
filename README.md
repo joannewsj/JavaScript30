@@ -13,3 +13,4 @@ A 30 days challenge organized by [wesbos](https://github.com/wesbos/JavaScript30
 |07 - Array Cardio Day 2|[DEMO](https://joannewsj.github.io/JavaScript30/07%20-%20Array%20Cardio%20Day%202/)|[CODE](https://github.com/joannewsj/JavaScript30/tree/main/07%20-%20Array%20Cardio%20Day%202)|
 |08 - Fun with HTML5 Canvas|[DEMO](https://joannewsj.github.io/JavaScript30/08%20-%20Fun%20with%20HTML5%20Canvas/)|[CODE](https://github.com/joannewsj/JavaScript30/tree/main/08%20-%20Fun%20with%20HTML5%20Canvas)|
 |09 - Dev Tools Domination|[DEMO](https://joannewsj.github.io/JavaScript30/09%20-%20Dev%20Tools%20Domination/)|[CODE](https://github.com/joannewsj/JavaScript30/tree/main/09%20-%20Dev%20Tools%20Domination)|
+|10 - Hold Shift and Check Checkboxes|[DEMO](https://joannewsj.github.io/JavaScript30/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes/)|[CODE](https://github.com/joannewsj/JavaScript30/tree/main/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes)|
