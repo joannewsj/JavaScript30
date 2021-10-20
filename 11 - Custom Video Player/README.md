@@ -1,5 +1,7 @@
 ## 11 Custom Video Player
 
+[Demo](https://joannewsj.github.io/JavaScript30/11%20-%20Custom%20Video%20Player/)
+
 1. 获取元素
 ```
 const player = document.querySelector('.player');
