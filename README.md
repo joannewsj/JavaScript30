@@ -15,3 +15,4 @@ A 30 days challenge organized by [wesbos](https://github.com/wesbos/JavaScript30
 |09 - Dev Tools Domination|[DEMO](https://joannewsj.github.io/JavaScript30/09%20-%20Dev%20Tools%20Domination/)|[CODE](https://github.com/joannewsj/JavaScript30/tree/main/09%20-%20Dev%20Tools%20Domination)|
 |10 - Hold Shift and Check Checkboxes|[DEMO](https://joannewsj.github.io/JavaScript30/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes/)|[CODE](https://github.com/joannewsj/JavaScript30/tree/main/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes)|
 |11 - Custom Video Player|[DEMO](https://joannewsj.github.io/JavaScript30/11%20-%20Custom%20Video%20Player/)|[CODE](https://github.com/joannewsj/JavaScript30/tree/main/11%20-%20Custom%20Video%20Player)|
+|12 - Key Sequence Detection|[DEMO](https://joannewsj.github.io/JavaScript30/12%20-%20Key%20Sequence%20Detection/)|[CODE](https://github.com/joannewsj/JavaScript30/tree/main/12%20-%20Key%20Sequence%20Detection)|
