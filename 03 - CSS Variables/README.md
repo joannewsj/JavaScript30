@@ -4,14 +4,14 @@
 
 1. `:root` 和 `var()`
 
-``` Javascript
-:root{
-    --base: #FFC600;
-}
-img{
-    background: var(--base);
-}
-```
+    ``` css
+    :root{
+        --base: #FFC600;
+    }
+    img{
+        background: var(--base);
+    }
+    ```
 2. NodeList 和 Array 的差别  
 Inspect ``__proto__`` NodeList有 `forEach()`, `item()`, `keys()`，Array有 `map()`, `pop()`  
 
