@@ -21,10 +21,10 @@ Inspect > Elements > 选择 `<p>` > 右键 > Break on > Attributes modifications
 6. assert  
 false的时候才会出现第二个参数的内容  
 `console.assert(1 === 1, 'That is wrong!')`  
-```
-const p = document.querySelector('p');
-console.assert(p.classList.contains('ouch'), 'That is wrong!');
-```
+    ```Javascript
+    const p = document.querySelector('p');
+    console.assert(p.classList.contains('ouch'), 'That is wrong!');
+    ```
 
 7. clear  
 清除console内容 `console.clear()`  
@@ -32,37 +32,37 @@ console.assert(p.classList.contains('ouch'), 'That is wrong!');
 8. DOM元素  
 `console.log` 会打印HTML标签  
 `console.dir` 会打印元素的属性列表  
-```
-const p = document.querySelector('p');
-console.log(p);
-console.dir(p);
-```
+    ```Javascript
+    const p = document.querySelector('p');
+    console.log(p);
+    console.dir(p);
+    ```
 
 9. group
-```
-const dogs = [{ name: 'Snickers', age: 2 }, { name: 'hugo', age: 8 }];
-dogs.forEach(dog =>{
-    console.group(`${dog.name}`);
-    console.log(`This is ${dog.name}`);
-    console.log(`${dog.name} is ${dog.age} years old`);
-    console.log(`${dog.name} is ${dog.age * 7} dog years old`);
-    console.groupEnd(`${dog.name}`);
-});
-```
-如果太乱想要收起列表 可以用 `console.groupCollapsed`  
-`console.groupCollapsed(`${dog.name}`);`  
+    ```Javascript
+    const dogs = [{ name: 'Snickers', age: 2 }, { name: 'hugo', age: 8 }];
+    dogs.forEach(dog =>{
+        console.group(`${dog.name}`);
+        console.log(`This is ${dog.name}`);
+        console.log(`${dog.name} is ${dog.age} years old`);
+        console.log(`${dog.name} is ${dog.age * 7} dog years old`);
+        console.groupEnd(`${dog.name}`);
+    });
+    ```
+    如果太乱想要收起列表 可以用 `console.groupCollapsed`  
+    `console.groupCollapsed(`${dog.name}`);`  
 
 10. count  
 计算使用 `console.count` 出现多少次  
 
 11. timing  
 计算获取data需要多少时间  
-```
-console.time('fetching data');
-fetch('https://api.github.com/users/wesbos')
-    .then(data => data.json())
-    .then(data => {
-        console.timeEnd('fetching data');
-        console.log(data);
-    })
-```
+    ```Javascript
+    console.time('fetching data');
+    fetch('https://api.github.com/users/wesbos')
+        .then(data => data.json())
+        .then(data => {
+            console.timeEnd('fetching data');
+            console.log(data);
+        })
+    ```
