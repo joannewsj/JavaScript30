@@ -18,3 +18,4 @@ A 30 days challenge organized by [wesbos](https://github.com/wesbos/JavaScript30
 |12 - Key Sequence Detection|[DEMO](https://joannewsj.github.io/JavaScript30/12%20-%20Key%20Sequence%20Detection/)|[CODE](https://github.com/joannewsj/JavaScript30/tree/main/12%20-%20Key%20Sequence%20Detection)|
 |13 - Slide in on Scroll|[DEMO](https://joannewsj.github.io/JavaScript30/13%20-%20Slide%20in%20on%20Scroll/index.html)|[CODE](https://github.com/joannewsj/JavaScript30/tree/main/13%20-%20Slide%20in%20on%20Scroll)|
 |14 - JavaScript References VS Copying|[DEMO](https://joannewsj.github.io/JavaScript30/14%20-%20JavaScript%20References%20VS%20Copying/)|[CODE](https://github.com/joannewsj/JavaScript30/tree/main/14%20-%20JavaScript%20References%20VS%20Copying)|
+|15 - LocalStorage|[DEMO](https://joannewsj.github.io/JavaScript30/15%20-%20LocalStorage/)|[CODE](https://github.com/joannewsj/JavaScript30/tree/main/15%20-%20LocalStorage)|
