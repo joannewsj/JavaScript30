@@ -19,3 +19,4 @@ A 30 days challenge organized by [wesbos](https://github.com/wesbos/JavaScript30
 |13 - Slide in on Scroll|[DEMO](https://joannewsj.github.io/JavaScript30/13%20-%20Slide%20in%20on%20Scroll/index.html)|[CODE](https://github.com/joannewsj/JavaScript30/tree/main/13%20-%20Slide%20in%20on%20Scroll)|
 |14 - JavaScript References VS Copying|[DEMO](https://joannewsj.github.io/JavaScript30/14%20-%20JavaScript%20References%20VS%20Copying/)|[CODE](https://github.com/joannewsj/JavaScript30/tree/main/14%20-%20JavaScript%20References%20VS%20Copying)|
 |15 - LocalStorage|[DEMO](https://joannewsj.github.io/JavaScript30/15%20-%20LocalStorage/)|[CODE](https://github.com/joannewsj/JavaScript30/tree/main/15%20-%20LocalStorage)|
+|16 - Mouse Move Shadow|[DEMO](https://joannewsj.github.io/JavaScript30/16%20-%20Mouse%20Move%20Shadow/index.html)|[CODE](https://github.com/joannewsj/JavaScript30/tree/main/16%20-%20Mouse%20Move%20Shadow)|
