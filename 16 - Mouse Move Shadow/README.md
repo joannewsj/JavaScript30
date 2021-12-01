@@ -1,6 +1,6 @@
 ## 16 Mouse Move Shadow
 
-[Demo](https://joannewsj.github.io/JavaScript30/16%20-%20Mouse%20Move%20Shadow/)
+[Demo](https://joannewsj.github.io/JavaScript30/16%20-%20Mouse%20Move%20Shadow/index.html)
 
 ```html
 <h1 contenteditable>🔥WOAH!</h1>
