@@ -21,3 +21,4 @@ A 30 days challenge organized by [wesbos](https://github.com/wesbos/JavaScript30
 |15 - LocalStorage|[DEMO](https://joannewsj.github.io/JavaScript30/15%20-%20LocalStorage/)|[CODE](https://github.com/joannewsj/JavaScript30/tree/main/15%20-%20LocalStorage)|
 |16 - Mouse Move Shadow|[DEMO](https://joannewsj.github.io/JavaScript30/16%20-%20Mouse%20Move%20Shadow/index.html)|[CODE](https://github.com/joannewsj/JavaScript30/tree/main/16%20-%20Mouse%20Move%20Shadow)|
 |17 - Sort Without Articles|[DEMO](https://joannewsj.github.io/JavaScript30/17%20-%20Sort%20Without%20Articles/)|[CODE](https://github.com/joannewsj/JavaScript30/tree/main/17%20-%20Sort%20Without%20Articles)|
+|18 - Adding Up Times with Reduce|[DEMO](https://joannewsj.github.io/JavaScript30/18%20-%20Adding%20Up%20Times%20with%20Reduce/)|[CODE](https://github.com/joannewsj/JavaScript30/tree/main/18%20-%20Adding%20Up%20Times%20with%20Reduce)|
